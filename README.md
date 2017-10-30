@@ -1,8 +1,8 @@
-# omnis user.js
+﻿# omnis-user.js
 
-
-
-add this file after the Omnis Studio JavaScript client scripts to geive the jsclient additional functions
+add user.js into your jsctempl.htm 
+after the Omnis Studio JavaScript client scripts 
+to give the jsclient additional functions
 
 
 <!-- Omnis Studio JavaScript client scripts -->
